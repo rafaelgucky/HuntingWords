@@ -1,3 +1,3 @@
 # Hunting Words
 
-##Word search generator (Console)
+## Word search generator (Console)
